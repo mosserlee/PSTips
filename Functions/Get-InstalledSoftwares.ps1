@@ -6,6 +6,8 @@
    1.'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall'
    2.'HKCU:\Software\Microsoft\Windows\CurrentVersion\Uninstall'
    3.'HKLM:SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall'
+   Author: Mosser Lee (http://www.pstips.net/author/mosser/)
+
 .EXAMPLE
    Get-InstalledSoftwares
 .EXAMPLE
